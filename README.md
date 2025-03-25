@@ -1,6 +1,6 @@
 # Hi there, I'm Rowobin!
 
-I'm a 20-year-old Junior Developer/Student from/currently living Portugal.
+I'm a 20-year-old Junior Developer/Student from Portugal.
 
 I'm really into computer graphics. You can usually find me working on a side project (or multiple).
 
