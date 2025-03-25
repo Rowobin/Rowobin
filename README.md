@@ -9,7 +9,6 @@ I made a 3D portfolio that I think is pretty cool, [check it out](https://rowobi
 ---
 ## Contacts
 
-*   **Portfolio:** https://rowobin.github.io/3D-Room-Portfolio/
 *   **Twitter:** https://x.com/RobinsSecret
 *   **Email:** secretrobin95@gmail.com
 *   **Discord:** rowobin
