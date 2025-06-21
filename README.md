@@ -1,4 +1,4 @@
-# Hi there, I'm Rowobin!
+# Hi there, I'm Robin!
 
 I'm a 20-year-old Junior Developer from Portugal.
 
