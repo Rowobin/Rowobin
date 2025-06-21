@@ -1,10 +1,10 @@
 # Hi there, I'm Rowobin!
 
-I'm a 20-year-old Junior Developer/Student from Portugal.
+I'm a 20-year-old Junior Developer from Portugal.
 
-I'm really into computer graphics. You can usually find me working on a side project (or multiple).
+I'm really into computer graphics and systems programming. I love working on random side projects :p
 
-I made a 3D portfolio that I think is pretty cool, [check it out](https://rowobin.github.io/3D-Room-Portfolio/).
+Check out my [blog](#).
 
 ---
 ## Contacts
